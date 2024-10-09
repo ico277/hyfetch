@@ -888,6 +888,14 @@ PRESETS: dict[str, ColorProfile] = {
         '#F3A26A',
     ]),
 
+    'minnesotavikings': ColorProfile([
+        '#9D59D2',
+        '#FCF431',
+        '#FCFCFC',
+        '#9D59D2',
+        #'#282828'
+    ]),
+
     # colors from Gilbert Baker's original 1978 flag design
     # used https://gilbertbaker.com/rainbow-flag-color-meanings/ as source and colorpicked
     'baker': ColorProfile([
